@@ -5,17 +5,23 @@
 
 $oeDBConnectionOnline = array( // online connection
 /*__CONNECTION_ONLINE_START*/
-     'engine'	=> 'SQLite',
-     'dbname'	=> 'Data/SQLite_DB/oedb.db',
-
+		"not_set"	=> true,
+		"engine"	=> "MySQL|SQLite",
+		"server" 	=> "server",
+		"dbname" 	=> "dbname - the only parameter in SQLite mode",
+		"user" 		=> "user",
+		"pw" 		=> "password",
 /*__CONNECTION_ONLINE_END*/
 	);
 
 $oeDBConnectionLocalAMP = array( // local connection with ?AMP (easyPHP etc)
 /*__CONNECTION_LOCAL_START*/
-     'engine'	=> 'SQLite',
-     'dbname'	=> 'Data/SQLite_DB/oedb.db',
-
+		"not_set"	=> true,
+		"engine"	=> "MySQL|SQLite",
+		"server" 	=> "server",
+		"dbname" 	=> "dbname - the only parameter in SQLite mode",
+		"user" 		=> "user",
+		"pw" 		=> "password",
 /*__CONNECTION_LOCAL_END*/
 	);
 

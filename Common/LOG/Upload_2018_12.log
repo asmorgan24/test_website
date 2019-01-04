@@ -1,0 +1,265 @@
+12/20/2018 12:12:47 AM | Debut Mise en ligne complete (Site):
+12/20/2018 12:12:47 AM | Listing terminé :
+12/20/2018 12:12:47 AM | 
+
+12/20/2018 12:12:47 AM | * Files/Fonts-- -- --Folder create
+12/20/2018 12:12:47 AM | * WEFiles-- -- --Folder create
+12/20/2018 12:12:47 AM | * WEFiles/Xml-- -- --Folder create
+12/20/2018 12:12:47 AM | * WEFiles/Server-- -- --Folder create
+12/20/2018 12:12:47 AM | * WEFiles/Server/language-- -- --Folder create
+12/20/2018 12:12:47 AM | * WEFiles/Server/DB-- -- --Folder create
+12/20/2018 12:12:47 AM | * WEFiles/Server/DB/DBTools-- -- --Folder create
+12/20/2018 12:12:47 AM | * WEFiles/Server/class-- -- --Folder create
+12/20/2018 12:12:47 AM | * WEFiles/Other-- -- --Folder create
+12/20/2018 12:12:47 AM | * WEFiles/Image-- -- --Folder create
+12/20/2018 12:12:47 AM | * WEFiles/Font-- -- --Folder create
+12/20/2018 12:12:47 AM | * WEFiles/EG-- -- --Folder create
+12/20/2018 12:12:47 AM | * WEFiles/Css-- -- --Folder create
+12/20/2018 12:12:47 AM | * WEFiles/Css/v02-- -- --Folder create
+12/20/2018 12:12:47 AM | * WEFiles/Css/v01-- -- --Folder create
+12/20/2018 12:12:47 AM | * WEFiles/Client-- -- --Folder create
+12/20/2018 12:12:47 AM | * WEFiles/Client/jQuery-- -- --Folder create
+12/20/2018 12:12:47 AM | * WEFiles/Client/jQuery/Plugins-- -- --Folder create
+12/20/2018 12:12:47 AM | * WEFiles/Client/Common-- -- --Folder create
+12/20/2018 12:12:47 AM | * Templates-- -- --Folder create
+12/20/2018 12:12:47 AM | * Files-- -- --Folder create
+12/20/2018 12:12:47 AM | * Files/Video-- -- --Folder create
+12/20/2018 12:12:47 AM | * Files/Other-- -- --Folder create
+12/20/2018 12:12:47 AM | * Files/Media-- -- --Folder create
+12/20/2018 12:12:47 AM | * Files/Image-- -- --Folder create
+12/20/2018 12:12:47 AM | * Files/Fonts-- -- --Folder create
+12/20/2018 12:12:47 AM | * Files/Flash-- -- --Folder create
+12/20/2018 12:12:47 AM | * Files/Audio-- -- --Folder create
+12/20/2018 12:12:47 AM | * Data-- -- --Folder create
+12/20/2018 12:12:47 AM | * Backup-- -- --Folder create
+12/20/2018 12:12:47 AM | * Common-- -- --Folder create
+12/20/2018 12:12:47 AM | * WEFiles/Image/Skin-- -- --Folder create
+12/20/2018 12:12:47 AM | * Files\Other-- -- --Folder create
+12/20/2018 12:12:47 AM | * Files\Fonts-- -- --Folder create
+12/20/2018 12:12:47 AM | * Backup/.htaccess-- -- --33
+12/20/2018 12:12:47 AM | * Data/.htaccess-- -- --13
+12/20/2018 12:12:47 AM | * WEFiles/Client/Common/oe.min.js-- -- --16317
+12/20/2018 12:12:47 AM | * WEFiles/Client/jQuery/Plugins/jquery.form.js-- -- --11659
+12/20/2018 12:12:47 AM | * WEFiles/Client/jQuery/Plugins/jquery.ui.core.js-- -- --19590
+12/20/2018 12:12:47 AM | * WEFiles/Client/jQuery/Plugins/jquery.ui.effects.js-- -- --25199
+12/20/2018 12:12:47 AM | * WEFiles/Client/jQuery/1.10.2.js-- -- --93107
+12/20/2018 12:12:47 AM | * WEFiles/Client/jQuery/migrate.js-- -- --7202
+12/20/2018 12:12:47 AM | * WEFiles/Client/OEDB.js-- -- --1856
+12/20/2018 12:12:47 AM | * WEFiles/Client/OEDBClasses.js-- -- --2280
+12/20/2018 12:12:47 AM | * WEFiles/Client/opentip-jquery.min.js-- -- --44974
+12/20/2018 12:12:47 AM | * WEFiles/Css/v01/openElement.css-- -- --5851
+12/20/2018 12:12:47 AM | * WEFiles/Css/v02/openElement.css-- -- --6102
+12/20/2018 12:12:47 AM | * WEFiles/Css/v02/openElement.int.css-- -- --6177
+12/20/2018 12:12:47 AM | * WEFiles/Css/ie7.css-- -- --833
+12/20/2018 12:12:47 AM | * WEFiles/Css/opentip.css-- -- --9211
+12/20/2018 12:12:47 AM | * WEFiles/Image/Code.png-- -- --831
+12/20/2018 12:12:47 AM | * WEFiles/Image/delete.png-- -- --1465
+12/20/2018 12:12:47 AM | * WEFiles/Image/empty.png-- -- --184
+12/20/2018 12:12:47 AM | * WEFiles/Image/information2.png-- -- --3246
+12/20/2018 12:12:47 AM | * WEFiles/Image/loading.gif-- -- --1924
+12/20/2018 12:12:47 AM | * WEFiles/Image/Loading2.gif-- -- --4941
+12/20/2018 12:12:47 AM | * WEFiles/Image/mask.png-- -- --213
+12/20/2018 12:12:47 AM | * WEFiles/Image/ModalBackgound.png-- -- --27145
+12/20/2018 12:12:47 AM | * WEFiles/Image/ModalPopupBlock.png-- -- --268
+12/20/2018 12:12:47 AM | * WEFiles/Image/ServerError.png-- -- --2602
+12/20/2018 12:12:47 AM | * WEFiles/Image/warning.png-- -- --816
+12/20/2018 12:12:47 AM | * WEFiles/Image/WEW3C.png-- -- --1882
+12/20/2018 12:12:47 AM | * WEFiles/Server/class/class-phpmailer.php-- -- --65668
+12/20/2018 12:12:47 AM | * WEFiles/Server/class/class-smtp.php-- -- --32456
+12/20/2018 12:12:47 AM | * WEFiles/Server/DB/DBTools/OEDataContainers.php-- -- --57685
+12/20/2018 12:12:47 AM | * WEFiles/Server/DB/DBTools/OEDBRequest.php-- -- --36412
+12/20/2018 12:12:47 AM | * WEFiles/Server/DB/DBTools/OEDynUtils.php-- -- --15107
+12/20/2018 12:12:47 AM | * WEFiles/Server/DB/.htaccess-- -- --13
+12/20/2018 12:12:47 AM | * WEFiles/Server/DB/OEDB.php-- -- --28741
+12/20/2018 12:12:47 AM | * WEFiles/Server/DB/OEDBClasses.php-- -- --84483
+12/20/2018 12:12:47 AM | * WEFiles/Server/DB/sqllogin.php-- -- --1479
+12/20/2018 12:12:47 AM | * WEFiles/Server/language/phpmailer.lang-en.php-- -- --1188
+12/20/2018 12:12:47 AM | * WEFiles/Server/language/phpmailer.lang-fr.php-- -- --1297
+12/20/2018 12:12:47 AM | * WEFiles/Server/openElement.php-- -- --13870
+12/20/2018 12:12:47 AM | * WEFiles/Server/VarText.php-- -- --4496
+12/20/2018 12:12:47 AM | * Files/Fonts/Fonts.css-- -- --1556
+12/20/2018 12:12:47 AM | * .htaccess-- -- --0
+12/20/2018 12:12:47 AM | * index(var).js-- -- --903
+12/20/2018 12:12:47 AM | * index(var).php-- -- --1269
+12/20/2018 12:12:47 AM | * index.css-- -- --6000
+12/20/2018 12:12:47 AM | * Files/Image/SSS-Tower-Photo.jpg-- -- --56081
+12/20/2018 12:12:47 AM | * Files/Image/venkadesan.gif-- -- --39246
+12/20/2018 12:12:47 AM | * Files/Image/vazquez.jpg-- -- --9810
+12/20/2018 12:12:47 AM | * Files/Image/r-kramer.jpg-- -- --8214
+12/20/2018 12:12:47 AM | * Files/Image/Scassellati-web.jpg-- -- --12714
+12/20/2018 12:12:47 AM | * Files/Image/dollar.jpg-- -- --16246
+12/20/2018 12:12:47 AM | * Files/Image/walking-mocapsequence_trimmed.jpg-- -- --43412
+12/20/2018 12:12:47 AM | * Files/Image/Towards-Robot-Autonomy-in-Group-Conversations-Understanding-the-Effects-of-Body-Orientation-and-Gaze-Image.png-- -- --251535
+12/20/2018 12:12:47 AM | * Files/Image/TensegrityRolling.png-- -- --682141
+12/20/2018 12:12:47 AM | * Files/Image/heli flying with orange tube.JPG-- -- --355426
+12/20/2018 12:12:47 AM | * Files/Image/Scazlab-dragonbot-demo.jpg-- -- --58599
+12/20/2018 12:12:47 AM | * WEFiles/Server/WESendMail-v210.php-- -- --12362
+12/20/2018 12:12:47 AM | * WEFiles/Client/WESendMail-v210.js-- -- --3670
+12/20/2018 12:12:47 AM | * WEFiles/Image/Skin/e1defe9e.png-- -- --554
+12/20/2018 12:12:47 AM | * WEFiles/Image/Skin/f72ffa6d.png-- -- --348
+12/20/2018 12:12:47 AM | * WEFiles/Image/Skin/0db815a6.png-- -- --348
+12/20/2018 12:12:47 AM | * WEFiles/Image/Flag_DEFAULT.png-- -- --762
+12/20/2018 12:12:47 AM | * WEFiles/Image/Flag_FR.png-- -- --771
+12/20/2018 12:12:47 AM | * WEFiles/Image/Skin/23baf6c8.png-- -- --520
+12/20/2018 12:12:47 AM | * WEFiles/Image/Skin/962e1fc1.png-- -- --477
+12/20/2018 12:12:47 AM | * WEFiles/Image/Skin/f4da6582.png-- -- --229
+12/20/2018 12:12:47 AM | * WEFiles/Image/Skin/00bff3bd.png-- -- --223
+12/20/2018 12:12:47 AM | * WEFiles/Image/Skin/c92e726e.png-- -- --230
+12/20/2018 12:12:47 AM | * WEFiles/Image/Skin/1ccc25ab.png-- -- --266
+12/20/2018 12:12:47 AM | * WEFiles/Image/Skin/dc555665.png-- -- --1363
+12/20/2018 12:12:47 AM | * WEFiles/Image/Skin/ebc9774e.png-- -- --1600
+12/20/2018 12:12:47 AM | * index.htm-- -- --40381
+12/20/2018 12:12:47 AM | * robots.txt-- -- --61
+12/20/2018 12:12:47 AM | * sitemap.xml-- -- --453
+12/20/2018 12:12:47 AM | * Files/Fonts/Domestic Manners.eot-- -- --61388
+12/20/2018 12:12:47 AM | * Files/Fonts/Domestic Manners.ttf-- -- --61128
+12/20/2018 12:12:47 AM | * Files/Fonts/Domestic Manners.woff-- -- --34672
+12/20/2018 12:12:47 AM | * Files/Fonts/Fonts.css-- -- --1556
+12/20/2018 12:12:47 AM | * Files/Fonts/GeosansLight.eot-- -- --60242
+12/20/2018 12:12:47 AM | * Files/Fonts/GeosansLight.ttf-- -- --60072
+12/20/2018 12:12:47 AM | * Files/Fonts/GeosansLight.woff-- -- --32304
+12/20/2018 12:12:47 AM | * Files/Fonts/Open Sans Light.eot-- -- --42150
+12/20/2018 12:12:47 AM | * Files/Fonts/Open Sans Light.ttf-- -- --41936
+12/20/2018 12:12:47 AM | * Files/Fonts/Open Sans Light.woff-- -- --22868
+12/20/2018 12:12:47 AM | * Files/Fonts/Open Sans.eot-- -- --42790
+12/20/2018 12:12:47 AM | * Files/Fonts/Open Sans.ttf-- -- --42600
+12/20/2018 12:12:47 AM | * Files/Fonts/Open Sans.woff-- -- --23520
+12/20/2018 12:12:47 AM | * Templates/Base_MenuRetractable.css-- -- --6588
+12/20/2018 12:12:47 AM | * Templates/Base_Scripts.css-- -- --943
+12/20/2018 12:12:48 AM | 
+12/20/2018 12:12:48 AM | 
+--------------------------------Phase 1 Terminé--------------------------------
+12/20/2018 12:12:48 AM | 
+
+12/20/2018 12:24:36 AM | Debut Mise en ligne complete (Site):
+12/20/2018 12:24:37 AM | Listing terminé :
+12/20/2018 12:24:37 AM | 
+
+12/20/2018 12:24:37 AM | * Files/Fonts-- -- --Folder create
+12/20/2018 12:24:37 AM | * WEFiles-- -- --Folder create
+12/20/2018 12:24:37 AM | * WEFiles/Xml-- -- --Folder create
+12/20/2018 12:24:37 AM | * WEFiles/Server-- -- --Folder create
+12/20/2018 12:24:37 AM | * WEFiles/Server/language-- -- --Folder create
+12/20/2018 12:24:37 AM | * WEFiles/Server/DB-- -- --Folder create
+12/20/2018 12:24:37 AM | * WEFiles/Server/DB/DBTools-- -- --Folder create
+12/20/2018 12:24:37 AM | * WEFiles/Server/class-- -- --Folder create
+12/20/2018 12:24:37 AM | * WEFiles/Other-- -- --Folder create
+12/20/2018 12:24:37 AM | * WEFiles/Image-- -- --Folder create
+12/20/2018 12:24:37 AM | * WEFiles/Font-- -- --Folder create
+12/20/2018 12:24:37 AM | * WEFiles/EG-- -- --Folder create
+12/20/2018 12:24:37 AM | * WEFiles/Css-- -- --Folder create
+12/20/2018 12:24:37 AM | * WEFiles/Css/v02-- -- --Folder create
+12/20/2018 12:24:37 AM | * WEFiles/Css/v01-- -- --Folder create
+12/20/2018 12:24:37 AM | * WEFiles/Client-- -- --Folder create
+12/20/2018 12:24:37 AM | * WEFiles/Client/jQuery-- -- --Folder create
+12/20/2018 12:24:37 AM | * WEFiles/Client/jQuery/Plugins-- -- --Folder create
+12/20/2018 12:24:37 AM | * WEFiles/Client/Common-- -- --Folder create
+12/20/2018 12:24:37 AM | * Templates-- -- --Folder create
+12/20/2018 12:24:37 AM | * Files-- -- --Folder create
+12/20/2018 12:24:37 AM | * Files/Video-- -- --Folder create
+12/20/2018 12:24:37 AM | * Files/Other-- -- --Folder create
+12/20/2018 12:24:37 AM | * Files/Media-- -- --Folder create
+12/20/2018 12:24:37 AM | * Files/Image-- -- --Folder create
+12/20/2018 12:24:37 AM | * Files/Fonts-- -- --Folder create
+12/20/2018 12:24:37 AM | * Files/Flash-- -- --Folder create
+12/20/2018 12:24:37 AM | * Files/Audio-- -- --Folder create
+12/20/2018 12:24:37 AM | * Data-- -- --Folder create
+12/20/2018 12:24:37 AM | * Backup-- -- --Folder create
+12/20/2018 12:24:37 AM | * Common-- -- --Folder create
+12/20/2018 12:24:37 AM | * WEFiles/Image/Skin-- -- --Folder create
+12/20/2018 12:24:37 AM | * Files\Other-- -- --Folder create
+12/20/2018 12:24:37 AM | * Files\Fonts-- -- --Folder create
+12/20/2018 12:24:37 AM | * Backup/.htaccess-- -- --33
+12/20/2018 12:24:37 AM | * Data/.htaccess-- -- --13
+12/20/2018 12:24:37 AM | * WEFiles/Client/Common/oe.min.js-- -- --16317
+12/20/2018 12:24:37 AM | * WEFiles/Client/jQuery/Plugins/jquery.form.js-- -- --11659
+12/20/2018 12:24:37 AM | * WEFiles/Client/jQuery/Plugins/jquery.ui.core.js-- -- --19590
+12/20/2018 12:24:37 AM | * WEFiles/Client/jQuery/Plugins/jquery.ui.effects.js-- -- --25199
+12/20/2018 12:24:37 AM | * WEFiles/Client/jQuery/1.10.2.js-- -- --93107
+12/20/2018 12:24:37 AM | * WEFiles/Client/jQuery/migrate.js-- -- --7202
+12/20/2018 12:24:37 AM | * WEFiles/Client/OEDB.js-- -- --1856
+12/20/2018 12:24:37 AM | * WEFiles/Client/OEDBClasses.js-- -- --2280
+12/20/2018 12:24:37 AM | * WEFiles/Client/opentip-jquery.min.js-- -- --44974
+12/20/2018 12:24:37 AM | * WEFiles/Css/v01/openElement.css-- -- --5851
+12/20/2018 12:24:37 AM | * WEFiles/Css/v02/openElement.css-- -- --6102
+12/20/2018 12:24:37 AM | * WEFiles/Css/v02/openElement.int.css-- -- --6177
+12/20/2018 12:24:37 AM | * WEFiles/Css/ie7.css-- -- --833
+12/20/2018 12:24:37 AM | * WEFiles/Css/opentip.css-- -- --9211
+12/20/2018 12:24:37 AM | * WEFiles/Image/Code.png-- -- --831
+12/20/2018 12:24:37 AM | * WEFiles/Image/delete.png-- -- --1465
+12/20/2018 12:24:37 AM | * WEFiles/Image/empty.png-- -- --184
+12/20/2018 12:24:37 AM | * WEFiles/Image/information2.png-- -- --3246
+12/20/2018 12:24:37 AM | * WEFiles/Image/loading.gif-- -- --1924
+12/20/2018 12:24:37 AM | * WEFiles/Image/Loading2.gif-- -- --4941
+12/20/2018 12:24:37 AM | * WEFiles/Image/mask.png-- -- --213
+12/20/2018 12:24:37 AM | * WEFiles/Image/ModalBackgound.png-- -- --27145
+12/20/2018 12:24:37 AM | * WEFiles/Image/ModalPopupBlock.png-- -- --268
+12/20/2018 12:24:37 AM | * WEFiles/Image/ServerError.png-- -- --2602
+12/20/2018 12:24:37 AM | * WEFiles/Image/warning.png-- -- --816
+12/20/2018 12:24:37 AM | * WEFiles/Image/WEW3C.png-- -- --1882
+12/20/2018 12:24:37 AM | * WEFiles/Server/class/class-phpmailer.php-- -- --65668
+12/20/2018 12:24:37 AM | * WEFiles/Server/class/class-smtp.php-- -- --32456
+12/20/2018 12:24:37 AM | * WEFiles/Server/DB/DBTools/OEDataContainers.php-- -- --57685
+12/20/2018 12:24:37 AM | * WEFiles/Server/DB/DBTools/OEDBRequest.php-- -- --36412
+12/20/2018 12:24:37 AM | * WEFiles/Server/DB/DBTools/OEDynUtils.php-- -- --15107
+12/20/2018 12:24:37 AM | * WEFiles/Server/DB/.htaccess-- -- --13
+12/20/2018 12:24:37 AM | * WEFiles/Server/DB/OEDB.php-- -- --28741
+12/20/2018 12:24:37 AM | * WEFiles/Server/DB/OEDBClasses.php-- -- --84483
+12/20/2018 12:24:37 AM | * WEFiles/Server/DB/sqllogin.php-- -- --1479
+12/20/2018 12:24:37 AM | * WEFiles/Server/language/phpmailer.lang-en.php-- -- --1188
+12/20/2018 12:24:37 AM | * WEFiles/Server/language/phpmailer.lang-fr.php-- -- --1297
+12/20/2018 12:24:37 AM | * WEFiles/Server/openElement.php-- -- --13870
+12/20/2018 12:24:37 AM | * WEFiles/Server/VarText.php-- -- --4496
+12/20/2018 12:24:37 AM | * .htaccess-- -- --0
+12/20/2018 12:24:37 AM | * index(var).js-- -- --903
+12/20/2018 12:24:37 AM | * index(var).php-- -- --1269
+12/20/2018 12:24:37 AM | * index.css-- -- --6000
+12/20/2018 12:24:37 AM | * Files/Image/SSS-Tower-Photo.jpg-- -- --56081
+12/20/2018 12:24:37 AM | * Files/Image/venkadesan.gif-- -- --39246
+12/20/2018 12:24:37 AM | * Files/Image/vazquez.jpg-- -- --9810
+12/20/2018 12:24:37 AM | * Files/Image/r-kramer.jpg-- -- --8214
+12/20/2018 12:24:37 AM | * Files/Image/Scassellati-web.jpg-- -- --12714
+12/20/2018 12:24:37 AM | * Files/Image/dollar.jpg-- -- --16246
+12/20/2018 12:24:37 AM | * Files/Image/walking-mocapsequence_trimmed.jpg-- -- --43412
+12/20/2018 12:24:37 AM | * Files/Image/Towards-Robot-Autonomy-in-Group-Conversations-Understanding-the-Effects-of-Body-Orientation-and-Gaze-Image.png-- -- --251535
+12/20/2018 12:24:37 AM | * Files/Image/TensegrityRolling.png-- -- --682141
+12/20/2018 12:24:37 AM | * Files/Image/heli flying with orange tube.JPG-- -- --355426
+12/20/2018 12:24:37 AM | * Files/Image/Scazlab-dragonbot-demo.jpg-- -- --58599
+12/20/2018 12:24:37 AM | * WEFiles/Server/WESendMail-v210.php-- -- --12362
+12/20/2018 12:24:37 AM | * WEFiles/Client/WESendMail-v210.js-- -- --3670
+12/20/2018 12:24:37 AM | * WEFiles/Image/Skin/e1defe9e.png-- -- --554
+12/20/2018 12:24:37 AM | * WEFiles/Image/Skin/f72ffa6d.png-- -- --348
+12/20/2018 12:24:37 AM | * WEFiles/Image/Skin/0db815a6.png-- -- --348
+12/20/2018 12:24:37 AM | * WEFiles/Image/Flag_DEFAULT.png-- -- --762
+12/20/2018 12:24:37 AM | * WEFiles/Image/Flag_FR.png-- -- --771
+12/20/2018 12:24:37 AM | * WEFiles/Image/Skin/23baf6c8.png-- -- --520
+12/20/2018 12:24:37 AM | * WEFiles/Image/Skin/962e1fc1.png-- -- --477
+12/20/2018 12:24:37 AM | * WEFiles/Image/Skin/f4da6582.png-- -- --229
+12/20/2018 12:24:37 AM | * WEFiles/Image/Skin/00bff3bd.png-- -- --223
+12/20/2018 12:24:37 AM | * WEFiles/Image/Skin/c92e726e.png-- -- --230
+12/20/2018 12:24:37 AM | * WEFiles/Image/Skin/1ccc25ab.png-- -- --266
+12/20/2018 12:24:37 AM | * WEFiles/Image/Skin/dc555665.png-- -- --1363
+12/20/2018 12:24:37 AM | * WEFiles/Image/Skin/ebc9774e.png-- -- --1600
+12/20/2018 12:24:37 AM | * index.htm-- -- --40499
+12/20/2018 12:24:37 AM | * robots.txt-- -- --61
+12/20/2018 12:24:37 AM | * sitemap.xml-- -- --453
+12/20/2018 12:24:37 AM | * Files/Fonts/Domestic Manners.eot-- -- --61388
+12/20/2018 12:24:37 AM | * Files/Fonts/Domestic Manners.ttf-- -- --61128
+12/20/2018 12:24:37 AM | * Files/Fonts/Domestic Manners.woff-- -- --34672
+12/20/2018 12:24:37 AM | * Files/Fonts/Fonts.css-- -- --1556
+12/20/2018 12:24:37 AM | * Files/Fonts/GeosansLight.eot-- -- --60242
+12/20/2018 12:24:37 AM | * Files/Fonts/GeosansLight.ttf-- -- --60072
+12/20/2018 12:24:37 AM | * Files/Fonts/GeosansLight.woff-- -- --32304
+12/20/2018 12:24:37 AM | * Files/Fonts/Open Sans Light.eot-- -- --42150
+12/20/2018 12:24:37 AM | * Files/Fonts/Open Sans Light.ttf-- -- --41936
+12/20/2018 12:24:37 AM | * Files/Fonts/Open Sans Light.woff-- -- --22868
+12/20/2018 12:24:37 AM | * Files/Fonts/Open Sans.eot-- -- --42790
+12/20/2018 12:24:37 AM | * Files/Fonts/Open Sans.ttf-- -- --42600
+12/20/2018 12:24:37 AM | * Files/Fonts/Open Sans.woff-- -- --23520
+12/20/2018 12:24:37 AM | * Templates/Base_MenuRetractable.css-- -- --6548
+12/20/2018 12:24:37 AM | * Templates/Base_Scripts.css-- -- --943
+12/20/2018 12:24:37 AM | 
+12/20/2018 12:24:37 AM | 
+--------------------------------Phase 1 Terminé--------------------------------
+12/20/2018 12:24:37 AM | 
+
