@@ -34,3 +34,21 @@ src: url("Open Sans.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
 font-weight: normal;
 font-style: normal;
 }
+@font-face {
+font-family: "Syncopate";
+src: url("Syncopate.eot") format("eot"); /* IE9 Compat Modes */
+src: url("Syncopate.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+     url("Syncopate.woff") format("woff"), /* Modern Browsers */
+     url("Syncopate.ttf") format("truetype"); /* Safari, Android, iOS */
+font-weight: normal;
+font-style: normal;
+}
+@font-face {
+font-family: "Ubuntu";
+src: url("Ubuntu.eot") format("eot"); /* IE9 Compat Modes */
+src: url("Ubuntu.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+     url("Ubuntu.woff") format("woff"), /* Modern Browsers */
+     url("Ubuntu.ttf") format("truetype"); /* Safari, Android, iOS */
+font-weight: normal;
+font-style: normal;
+}

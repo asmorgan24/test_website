@@ -1,1 +1,1 @@
-Sitemap:https://asmorgan24.github.io/test_website/sitemap.xml
+Sitemap:http://asmorgan24.github.io/sitemap.xml
